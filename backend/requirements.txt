@@ -1,0 +1,5 @@
+flask_sqlalchemy
+requests
+boto3
+Flask
+flask-cors
