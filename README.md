@@ -2,6 +2,8 @@
 
 This repository contains a full-stack web application with separate backend and frontend components. The project demonstrates the use of Docker for containerizing the application and includes scripts and configurations for both services.
 
+![image](https://github.com/user-attachments/assets/3875f5f9-2c04-407c-ab3d-dbcd6cd206f6)
+
 ## Project Overview
 
 The project is structured into two main components:
